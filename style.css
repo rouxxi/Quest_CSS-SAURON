@@ -22,8 +22,7 @@ img {
 
 /* Français : Remplace les points ci-dessous par une classe "hover-effect" avec une pseudo-classe :hover. Cette classe doit cibler la première image et la troisième image de la page. */
 
-img:first-child:hover,
-img:nth-of-type(3):hover {
+.hover-effect:hover {
     opacity: 0.8;
     /* English : Replace with a property responsible for opacity changes. */
     /* Français : Remplace par une propriété modifiant l'opacité. */
